@@ -1,0 +1,5 @@
+Thank you for downloading Cindy Lou Who. 
+Cindy Lou Who is set up for 3/4 in depth board and he is 30 inches high. She is also set up for two tool paths. The first is the 
+outline that is drawn with the pen holder and sharpie marker, and the second is a 1/4 in router bit. I have included
+the drawing in svg format as well as the svg that is loaded into maker cam. I also have the cut file if you use the 
+parameters I mentioned before. Enjoy! 
